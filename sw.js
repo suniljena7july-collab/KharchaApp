@@ -1,4 +1,4 @@
-const VERSION = 'kharcha-v1';
+const VERSION = 'kharcha-v2';
 const SHELL = ['./', './index.html', './manifest.webmanifest',
   './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
